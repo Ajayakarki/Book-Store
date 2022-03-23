@@ -11,7 +11,7 @@
 <h1>Output of the project</h1>
 
 <h3>View for normal user</h3>
-<br><img src="images/1.JPG"> <img src="images/3.JPG">
+<br><img src="images/1.JPG">
 
 <br>
 Normal user can only search, view and filter available books according to categories or according to price. 
